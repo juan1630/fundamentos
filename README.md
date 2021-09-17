@@ -7,3 +7,4 @@
 - Tambien se esta probando el curso de git en este mismo repositorio
 - Para ver el control de las versiones que se hacen y se está trabajando en la rama develop
 - Subida de archivos al stage por medio de la extensión
+- Se agregaron los alias agregué el alias de git status --short
